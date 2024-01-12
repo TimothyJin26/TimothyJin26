@@ -2,6 +2,8 @@
 
 I'm a Computer Science student at UBC. I'm passionate about developing websites, apps, and backends! 
 
+![](https://komarev.com/ghpvc/?username=TimothyJin26)
+
 ## Technical Skills
 
 ### Programming
