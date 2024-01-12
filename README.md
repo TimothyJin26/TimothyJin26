@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a Computer Science student at UBC. I'm passionate about developing websites, apps, and backends! 
+I'm a 3rd Year Computer Science student at UBC. I'm passionate about developing websites, apps, and backends! 
 
 ![](https://komarev.com/ghpvc/?username=TimothyJin26)
 
