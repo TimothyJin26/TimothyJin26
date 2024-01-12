@@ -2,7 +2,7 @@
 
 <p align="center">I am a 3rd Year Computer Science student at UBC. I'm passionate about developing websites and apps that are intuitive, widely beneficial, and pleasing to the eye!</p> 
 
-![](https://komarev.com/ghpvc/?username=TimothyJin26)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TimothyJin26&label=Profile%20views&color=0007d1&style=for-the-badge"/> </p>
 
 ## Technical Skills
 
