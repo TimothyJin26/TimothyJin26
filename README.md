@@ -49,6 +49,14 @@ Here are some ideas to get you started:
 
 ## Past Projects
 
+### Lumo
+Developed the backend and submitted to [nwHacks 2025](https://nwhacks-2025.devpost.com/)
+
+- Github repo: https://github.com/karenzhao35/nwHacks2025/tree/main/backend
+- Devpost: https://devpost.com/software/lumo-uofbck
+
+![image](https://github.com/user-attachments/assets/7153a4db-9245-441d-9ab8-aaab0fd3cd59)
+
 ### Parkinson's Disease Wearing Off Symptoms Survey App
 Developed at the [AWS UBC Community Health and Wellbeing Cloud Innovation Center](https://cic.ubc.ca/) in 2023
 
