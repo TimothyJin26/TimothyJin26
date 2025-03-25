@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Timothy!</h1>
 
-<p align="center">I am a 3rd Year Computer Science student at UBC.<br>I'm passionate about developing websites and apps that are intuitive, widely beneficial, and visually appealing!</p> 
+<p align="center">I am a 3rd Year Computer Science student at UBC.<br>I am passionate about leveraging technology to drive transformative change in the world in areas like entertainment, productivity, healthcare, and beyond through software development, cloud computing, and machine learning.</p> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TimothyJin26&label=Profile%20views&color=007cd2&style=for-the-badge"/> </p>
 
