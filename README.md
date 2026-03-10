@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## Past Projects
 ### FinHog
-Winner of Anthropic's Best Use of Claude and Warp's Best Financial Analytics Agent at [HackMIT 2025](https://plume.hackmit.org/project/eiach-eepki-cpgal-mgrul)
+Winner of Anthropic's Best Use of Claude and Warp's Best Financial Analytics Agent at [HackMIT 2025](https://plume.hackmit.org/project/eiach-eepki-cpgal-mgrul).\n
 Developed the AI agent that continuously analyzes incoming data streams, identifies statistically significant patterns, and creates the most appropriate visualizations in real-time. 
 
 - Github repo: https://github.com/Cheggin/HackMIT2025
